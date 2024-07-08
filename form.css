@@ -1,0 +1,25 @@
+.container{
+    background-color: #757b9c;
+    background-image:url("https://marketplace.canva.com/EAFCO6pfthY/1/0/1600w/canva-blue-green-watercolor-linktree-background-F2CyNS5sQdM.jpg");
+    margin:10px 185px;
+    padding:10px;
+    border-radius:20px;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 30px;
+ }
+    body{
+        text-align: center;
+    }
+    button{
+        margin: 30px;
+        background-color: #ffffff;
+    }
+ 
